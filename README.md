@@ -5,7 +5,7 @@
 Dashboard for Coffee Shop Data Analysis
 
 Introduction:
-As part of our ongoing efforts to optimize sales and operations in our coffee shops, I have developed a comprehensive dashboard using Excel to analyze key data points and derive actionable insights. This dashboard aims to facilitate decision-making processes by providing a clear overview of sales performance across different stores and identifying areas for improvement.
+As part of our ongoing efforts to optimize sales and operations in a coffee shops, I have developed a comprehensive dashboard using Excel to analyze key data points and derive actionable insights. This dashboard aims to facilitate decision-making processes by providing a clear overview of sales performance across different stores and identifying areas for improvement.
 
 Key Features:
 
